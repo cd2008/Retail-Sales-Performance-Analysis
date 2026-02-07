@@ -35,6 +35,10 @@ Average Transaction Value
 Category-wise Sales Performance
 Payment Method Distribution
 
+📈 Dashboard Preview
+
+
+
 🚀 How to Run This Project
 Clone the repository
 Import CSV files from /data into SQL Server
@@ -42,6 +46,7 @@ Run 01_load_and_clean.sql
 Run 02_calculate_kpis.sql
 Open Power BI file from /powerbi
 Refresh data and explore dashboards
+
 Key Insights
 Online sales contributed 56% of total revenue, while offline stores contributed 44%.
 UPI accounted for 45% of total transactions, with the highest average order value.
