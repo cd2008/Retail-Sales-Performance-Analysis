@@ -1,5 +1,6 @@
 # Retail-Sales-Performance-Analysis
 This project analyzes retail sales data to understand revenue trends, product performance, and customer payment behavior across online and offline channels. The goal is to help business stakeholders make data-driven decisions using clear KPIs and dashboards.
+
 ❓ Business Problem
 The retail business wants to:
 
@@ -7,6 +8,7 @@ Track total revenue and sales quantity
 Identify top and underperforming product categories
 Compare online vs offline store performance
 Understand customer payment preferences
+
 📂 Dataset
 Source: Kaggle (Retail Sales Dataset)
 Format: CSV
@@ -20,6 +22,7 @@ sales	Revenue for each transaction
 quantity	Units sold
 payment_method	Cash/Card/UPI
 channel	Online/Offline store
+
 🛠 Tools Used
 Excel – Data cleaning
 SQL Server – KPI calculations
