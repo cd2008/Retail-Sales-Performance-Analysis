@@ -36,8 +36,8 @@ Category-wise Sales Performance
 Payment Method Distribution
 
 📈 Dashboard Preview
-
-
+<img width="1120" height="630" alt="dashboard_01" src="https://github.com/user-attachments/assets/32d2b7cc-7d9c-417a-a4a6-8f274de9a900" />
+<img width="1112" height="633" alt="dashboard_02" src="https://github.com/user-attachments/assets/039f565d-827c-49af-971e-9958f132fce3" />
 
 🚀 How to Run This Project
 Clone the repository
