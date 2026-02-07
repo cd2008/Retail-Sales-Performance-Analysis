@@ -34,3 +34,18 @@ Total Quantity Sold
 Average Transaction Value
 Category-wise Sales Performance
 Payment Method Distribution
+
+🚀 How to Run This Project
+Clone the repository
+Import CSV files from /data into SQL Server
+Run 01_load_and_clean.sql
+Run 02_calculate_kpis.sql
+Open Power BI file from /powerbi
+Refresh data and explore dashboards
+Key Insights
+Online sales contributed 56% of total revenue, while offline stores contributed 44%.
+UPI accounted for 45% of total transactions, with the highest average order value.
+Category "Electronics" generated the most revenue, while "Stationery" showed a consistent decline.
+
+📌 Conclusion
+This project demonstrates end-to-end data analysis skills including data cleaning, SQL querying, KPI development, and dashboard creation.
